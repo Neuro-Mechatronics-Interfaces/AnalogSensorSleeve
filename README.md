@@ -2,6 +2,8 @@
 
 This repository contains the firmware and Python visualization software for the NML Sensor Sleeve project. The project uses an ESP32 microcontroller to collect analog data from 15 sensors and a Python GUI application to visualize the data in real-time.
 
+![Example of GUI in action.](NML_SleeveGUI.gif)
+
 ## Repository Structure
 
 ```
